@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <!--
+## Hi there 👋
 **PetrAqua/PetrAqua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My Skills & Interests
+![My Skills](https://skillicons.dev/icons?i=windows,r,stackoverflow,github,vscode)
+
+[![Google Data Analytics Certificate](https://images.credly.com/size/240x240/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](https://www.credly.com/badges/466042cd-f2c2-4559-8989-5820f50bfd54/linked_in_profile)
+[<img src="https://www.datacamp.com/statement-of-accomplishment/badge/track/827d489e94ca1330fdcc15124282cfd4954dfd06.png" alt="DataCamp Data Analyst Track" width="340">](https://www.datacamp.com/completed/statement-of-accomplishment/track/827d489e94ca1330fdcc15124282cfd4954dfd06)
